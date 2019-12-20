@@ -16,5 +16,6 @@
     <h1>Sistema de registro de notas</h1>
     <h2>Por Victor Madrid</h2>
     <h2>Seccion 6</h2>
+    <h3>test CI</h3>
 </body>
 </html>
